@@ -4,6 +4,6 @@
 
 <img align='right' src="https://profile-counter.glitch.me/Januaryu/count.svg" width="100">
 
-- Name : IMOTAL
+- Name : I'MOTAL
 - 网络安全爱好者
 
