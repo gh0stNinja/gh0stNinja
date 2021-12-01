@@ -4,6 +4,6 @@
 
 <img align='right' src="https://profile-counter.glitch.me/Januaryu/count.svg" width="100">
 
-- Name : I'imortal
+- Name : I'mortal
 - 网络安全爱好者
 
