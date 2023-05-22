@@ -5,5 +5,5 @@
 <img align='right' src="https://profile-counter.glitch.me/gh0stNinja/count.svg" width="100">
 
 - Name : gh0stNinja
-- 网络安全爱好者
+- 国家一级保护废物
 
