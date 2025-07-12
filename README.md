@@ -2,8 +2,6 @@
 
 ### About Me 👋
 
-<img align='right' src="https://profile-counter.glitch.me/gh0stNinja/count.svg" width="100">
-
 - Name : gh0stNinja
 - 国家一级保护废物
 
